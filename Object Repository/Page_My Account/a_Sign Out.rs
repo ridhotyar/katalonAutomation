@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Sign Out</name>
+   <tag></tag>
+   <elementGuidId>83b0b6ae-995b-4f54-9214-61c1e6804b7b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>li.link.authorization-link > a</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//body[@id='html-body']/div[2]/div/div/header/div[3]/div/ul/li[2]/div/ul/li[3]/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>743016fa-d9e1-4fbe-9796-52e803bd0751</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://b2cdemo.getswift.asia/customer/account/logout/</value>
+      <webElementGuid>4f37aece-c140-4c2e-9193-60c9ba9d901b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-post</name>
+      <type>Main</type>
+      <value>{&quot;action&quot;:&quot;https:\/\/b2cdemo.getswift.asia\/customer\/account\/logout\/&quot;,&quot;data&quot;:{&quot;uenc&quot;:&quot;aHR0cHM6Ly9iMmNkZW1vLmdldHN3aWZ0LmFzaWEvY3VzdG9tZXIvYWNjb3VudC8,&quot;}}</value>
+      <webElementGuid>399d4977-69ac-4c92-aeaa-8aa277f9d492</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Sign Out</value>
+      <webElementGuid>feb653fe-8645-44be-a21a-f1221e0d2631</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;html-body&quot;)/div[@class=&quot;page-wrapper&quot;]/div[@class=&quot;header-placeholder&quot;]/div[@class=&quot;page-header page-header-v1&quot;]/header[@class=&quot;page-header&quot;]/div[@class=&quot;panel wrapper&quot;]/div[@class=&quot;panel header&quot;]/ul[@class=&quot;header links&quot;]/li[@class=&quot;customer-welcome active&quot;]/div[@class=&quot;customer-menu&quot;]/ul[@class=&quot;header links&quot;]/li[@class=&quot;link authorization-link&quot;]/a[1]</value>
+      <webElementGuid>4f9ffa9b-e3d4-4ee9-a3eb-7e4e4202aa79</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//body[@id='html-body']/div[2]/div/div/header/div[3]/div/ul/li[2]/div/ul/li[3]/a</value>
+      <webElementGuid>3487ccd8-e828-42a4-9cc5-f4fee86d54ad</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Sign Out')]</value>
+      <webElementGuid>3011ec9d-ab44-4847-8301-f396a298fa34</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='My Wish List'])[1]/following::a[1]</value>
+      <webElementGuid>970f6af1-c989-4989-98a3-b9634922883a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='My Account'])[2]/following::a[2]</value>
+      <webElementGuid>a7e72a0a-5c66-4605-8180-168ffa8e4381</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Confirm Payment'])[1]/preceding::a[1]</value>
+      <webElementGuid>e1c103bf-cb58-4694-9118-1ed55717d729</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Sign Out']/parent::*</value>
+      <webElementGuid>6daf3874-533f-48d8-b30c-381bab10523c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'https://b2cdemo.getswift.asia/customer/account/logout/')]</value>
+      <webElementGuid>99ee12a9-8c33-40ec-b503-a8eb9728a353</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[2]/div/ul/li[3]/a</value>
+      <webElementGuid>03c09c87-fc75-4ad3-a042-c01a8cbf9e42</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://b2cdemo.getswift.asia/customer/account/logout/' and (text() = 'Sign Out' or . = 'Sign Out')]</value>
+      <webElementGuid>e3db03c4-0846-43af-b5f5-50da37b659d5</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
