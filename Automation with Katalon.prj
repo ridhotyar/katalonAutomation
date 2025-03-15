@@ -4,8 +4,12 @@
    <name>Automation with Katalon</name>
    <tag></tag>
    <UUID>30516848-91c3-4591-83cc-0fec90230a70</UUID>
+   <freeLicense>false</freeLicense>
    <migratedVersion>5.9.0</migratedVersion>
+   <modifiedEdition>ENTERPRISE</modifiedEdition>
+   <modifiedVersion>10.1.1</modifiedVersion>
    <pageLoadTimeout>0</pageLoadTimeout>
+   <projectFileLocation>/Users/ridhotiyar/git/katalonAutomation/Automation with Katalon.prj</projectFileLocation>
    <sourceContent>
       <sourceFolderList>
          <sourceFolderConfiguration>
