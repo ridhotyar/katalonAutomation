@@ -17,6 +17,8 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
+WebUI.navigateToUrl(GlobalVariable.URL)
+
 WebUI.click(findTestObject('Object Repository/Page_Home Page V1/a_Create an Account'))
 
 WebUI.setText(findTestObject('Object Repository/Page_Create New Customer Account/input_First Name_firstname'), 'Ridho')
@@ -33,13 +35,4 @@ WebUI.setEncryptedText(findTestObject('Object Repository/Page_Create New Custome
     GlobalVariable.Password)
 
 WebUI.setText(findTestObject('Object Repository/Page_Create New Customer Account/input_Phone Number_telephone'), GlobalVariable.PhoneNumber)
-
-//WebUI.click(findTestObject('Object Repository/Page_Create New Customer Account/button_Request OTP Code'))
-//
-//WebUI.delay(30)
-//
-//WebUI.click(findTestObject('Object Repository/Page_Create New Customer Account/button_Create an Account'))
-//
-//WebUI.verifyElementPresent(findTestObject('Object Repository/Page_My Account/div_Thank you for registering with ICUBE SW_2b2bc5'), 
-//    0)
 

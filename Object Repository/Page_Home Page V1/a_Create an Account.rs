@@ -7,14 +7,14 @@
    <selectorCollection>
       <entry>
          <key>CSS</key>
-         <value></value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//body[@id='html-body']/div[2]/div/div/header/div[3]/div/ul/li[5]/a</value>
+         <value>/html[1]/body[1]/div[2]/div[1]/div[1]/header[1]/div[3]/div[1]/ul[1]/li[6]/a[1]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
    <useRalativeImagePath>true</useRalativeImagePath>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>fbf31b18-1d77-4e98-930e-c3b26bd654cb</webElementGuid>
+      <webElementGuid>2229efa3-1764-47b8-abb9-e8b303674b12</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +30,7 @@
       <name>href</name>
       <type>Main</type>
       <value>https://b2cdemo.getswift.asia/customer/account/create/</value>
-      <webElementGuid>ebad6674-68de-4bb3-a834-28915d6fc04e</webElementGuid>
+      <webElementGuid>4a52713c-c0cd-4ebc-bc17-a7b3e22ee6f2</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Create an Account</value>
-      <webElementGuid>411afeea-77ca-47e1-95df-2acfb625bfb2</webElementGuid>
+      <webElementGuid>03d4a777-581e-480d-82ad-f55f8c7bddfd</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;html-body&quot;)/div[@class=&quot;page-wrapper&quot;]/div[@class=&quot;header-placeholder&quot;]/div[@class=&quot;page-header page-header-v1&quot;]/header[@class=&quot;page-header&quot;]/div[@class=&quot;panel wrapper&quot;]/div[@class=&quot;panel header&quot;]/ul[@class=&quot;header links&quot;]/li[5]/a[1]</value>
-      <webElementGuid>0a5d6ddf-7ed0-4668-988f-f5607573fe82</webElementGuid>
+      <webElementGuid>895045e0-ae73-4493-99be-b416c8f7650d</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -54,7 +54,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//body[@id='html-body']/div[2]/div/div/header/div[3]/div/ul/li[5]/a</value>
-      <webElementGuid>c0425d9c-9313-44f2-80f2-1b83283fd981</webElementGuid>
+      <webElementGuid>891d24e7-8e55-4007-9e21-69cc9afef4f5</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath:link</name>
       <type>Main</type>
       <value>//a[contains(text(),'Create an Account')]</value>
-      <webElementGuid>93cbdcf8-76df-407c-b615-8947a2e9144a</webElementGuid>
+      <webElementGuid>2d1c04fe-40bb-4955-8a9a-2db4e1176f75</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Sign In'])[1]/following::a[1]</value>
-      <webElementGuid>08c3b1ca-6ecb-42d4-aadf-8dca91de2f28</webElementGuid>
+      <webElementGuid>4c083a9c-f263-497b-939d-84894de768c0</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Track Order'])[1]/following::a[2]</value>
-      <webElementGuid>05e753fe-73a3-4d93-85aa-31efa929628d</webElementGuid>
+      <webElementGuid>d62093aa-0a37-41bf-a31b-8adac097a6ab</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Toggle Nav'])[1]/preceding::a[1]</value>
-      <webElementGuid>f0a1c72e-6694-4088-bede-484a4db393a7</webElementGuid>
+      <webElementGuid>e6618bde-739c-4fc8-8202-d786c39d7412</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='My Cart'])[1]/preceding::a[2]</value>
-      <webElementGuid>369f5eaa-5a96-4399-baab-a52f7a80e46e</webElementGuid>
+      <webElementGuid>75de226a-16a4-4fdc-b385-193b685f295e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,7 +102,7 @@
       <name>xpath:href</name>
       <type>Main</type>
       <value>//a[contains(@href, 'https://b2cdemo.getswift.asia/customer/account/create/')]</value>
-      <webElementGuid>00f68009-cf2d-45c4-af43-60333c587b03</webElementGuid>
+      <webElementGuid>099e7371-2c05-46db-b8f5-3757c236d8d8</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,7 +110,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[3]/div/ul/li[5]/a</value>
-      <webElementGuid>21bd2795-a2be-4cc6-82b2-b26c67a9c61e</webElementGuid>
+      <webElementGuid>c91b2e16-97e3-4620-b125-15cbb133eeef</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -118,6 +118,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//a[@href = 'https://b2cdemo.getswift.asia/customer/account/create/' and (text() = 'Create an Account' or . = 'Create an Account')]</value>
-      <webElementGuid>1a60f1c6-6dd0-4fdb-8b5e-a8f9d3602823</webElementGuid>
+      <webElementGuid>ff25b047-52db-4efe-bc72-77afbb6ed79b</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
