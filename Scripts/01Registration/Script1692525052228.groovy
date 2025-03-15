@@ -17,8 +17,6 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-WebUI.openBrowser('')
-
 WebUI.navigateToUrl(GlobalVariable.URL)
 
 WebUI.click(findTestObject('Object Repository/Page_Home Page V1/a_Create an Account'))
@@ -46,10 +44,4 @@ WebUI.click(findTestObject('Object Repository/Page_Create New Customer Account/b
 
 WebUI.verifyElementPresent(findTestObject('Object Repository/Page_My Account/div_Thank you for registering with ICUBE SW_2b2bc5'), 
     0)
-
-WebUI.click(findTestObject('Object Repository/Page_My Account/button_Change'))
-
-WebUI.click(findTestObject('Object Repository/Page_My Account/a_Sign Out'))
-
-WebUI.closeBrowser()
 

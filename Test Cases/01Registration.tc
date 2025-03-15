@@ -4,5 +4,6 @@
    <name>01Registration</name>
    <tag></tag>
    <comment></comment>
+   <recordOption>OTHER</recordOption>
    <testCaseGuid>88e6d0cf-ec6f-4f0d-8c87-6060c31e9f1a</testCaseGuid>
 </TestCaseEntity>
