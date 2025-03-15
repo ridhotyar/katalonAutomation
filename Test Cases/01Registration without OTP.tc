@@ -4,5 +4,6 @@
    <name>01Registration without OTP</name>
    <tag></tag>
    <comment></comment>
+   <recordOption>OTHER</recordOption>
    <testCaseGuid>d85a4b1c-c995-4d5a-be24-e61c7ec1eb13</testCaseGuid>
 </TestCaseEntity>

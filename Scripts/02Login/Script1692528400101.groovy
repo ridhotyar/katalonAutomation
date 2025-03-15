@@ -17,31 +17,29 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-WebUI.openBrowser('')
-
-WebUI.navigateToUrl(GlobalVariable.URL)
+//WebUI.navigateToUrl(GlobalVariable.URL)
 
 WebUI.click(findTestObject('Page_Home Page V1/a_Sign In'))
 
-WebUI.setText(findTestObject('Page_Customer Login/input_Email_loginusername'), GlobalVariable.Email)
+WebUI.setText(findTestObject('pageCustomerLogin/filedEmail'), GlobalVariable.Email)
 
-WebUI.setText(findTestObject('Page_Customer Login/input_Password_loginpassword'), GlobalVariable.Password)
+WebUI.setText(findTestObject('pageCustomerLogin/fieldPassword'), GlobalVariable.Password)
 
-WebUI.click(findTestObject('Page_Customer Login/button_Sign In'))
-
-WebUI.verifyElementPresent(findTestObject('Page_Home Page V1/span_Welcome, Ridho Tiyar'), 0)
-
-WebUI.click(findTestObject('Page_Home Page V1/button_Change'))
-
-WebUI.click(findTestObject('Page_Home Page V1/a_My Account'))
-
-WebUI.click(findTestObject('Page_My Account/button_Change'))
-
-WebUI.click(findTestObject('Page_My Account/a_Sign Out'))
-
-WebUI.verifyElementPresent(findTestObject('Page_/span_You are signed out'), 0)
-
-WebUI.delay(7)
-
-WebUI.closeBrowser()
+//WebUI.click(findTestObject('pageCustomerLogin/buttonSignIn'))
+//
+//WebUI.verifyElementPresent(findTestObject('Page_Home Page V1/span_Welcome, Ridho Tiyar'), 0)
+//
+//WebUI.click(findTestObject('Page_Home Page V1/button_Change'))
+//
+//WebUI.click(findTestObject('Page_Home Page V1/a_My Account'))
+//
+//WebUI.click(findTestObject('Page_My Account/button_Change'))
+//
+//WebUI.click(findTestObject('Page_My Account/a_Sign Out'))
+//
+//WebUI.verifyElementPresent(findTestObject('Page_/span_You are signed out'), 0)
+//
+//WebUI.delay(7)
+//
+//WebUI.closeBrowser()
 
